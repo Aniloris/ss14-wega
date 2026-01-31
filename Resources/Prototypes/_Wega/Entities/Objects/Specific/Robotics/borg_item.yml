@@ -66,7 +66,6 @@
     maxCharge: 360
     startingCharge: 360
   - type: BatterySelfRecharger
-    autoRecharge: true
     autoRechargeRate: 2
   - type: MeleeWeapon
     wideAnimationRotation: -135

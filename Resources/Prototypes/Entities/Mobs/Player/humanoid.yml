@@ -421,7 +421,7 @@
     - NamesMilitaryLast
     nameFormat: name-format-ert-grenade
   - type: Loadout
-    prototypes: [ ERTSecurityGearArmedGrenade ]
+    prototypes: [ ERTSecurityGearArmedRifle ]
     roleLoadout: [ RoleSurvivalMilitaryDouble ]
 
 - type: entity
@@ -442,7 +442,7 @@
     - NamesMilitaryLast
     nameFormat: name-format-ert-vanguard
   - type: Loadout
-    prototypes: [ ERTSecurityGearArmedVanguard ]
+    prototypes: [ ERTSecurityGearArmedRifle ]
     roleLoadout: [ RoleSurvivalMilitaryDouble ]
 
 - type: entity
@@ -463,7 +463,7 @@
     - NamesMilitaryLast
     nameFormat: name-format-ert-pointman
   - type: Loadout
-    prototypes: [ ERTSecurityGearArmedShotgun ]
+    prototypes: [ ERTSecurityGearArmedRifle ]
     roleLoadout: [ RoleSurvivalMilitaryDouble ]
 
 ## ERT Medic
@@ -537,7 +537,7 @@
     - NamesMilitaryLast
     nameFormat: name-format-ert-corpsman
   - type: Loadout
-    prototypes: [ ERTMedicalGearArmed ]
+    prototypes: [ ERTMedicalGearEVA ]
     roleLoadout: [ RoleSurvivalMilitaryDouble ]
 
 ## CBURN
